@@ -1,3 +1,9 @@
+Nome utilizado: Lucas Sales
+
+Hierarquia do projeto: 
+
+![Hierarquia do projeto](https://i.imgur.com/A8qNN7B.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
